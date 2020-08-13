@@ -1,0 +1,28 @@
+{
+  "name": "sammy-starter-kit",
+  "version": "1.0.0",
+  "description": "A starter kit for my web projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlinville/sammy-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samlinville/sammy-starter-kit/issues"
+  },
+  "homepage": "https://github.com/samlinville/sammy-starter-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-w3c-html-validator": "^2.0.1"
+  }
+}
